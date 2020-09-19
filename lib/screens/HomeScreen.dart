@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_fluid_slider/flutter_fluid_slider.dart';
 import 'package:http/http.dart';
-import 'package:rk_coin/Strings.dart';
+import 'package:rk_coin/Values.dart';
 import 'package:web3dart/web3dart.dart';
 
 class HomeScreen extends StatefulWidget {
